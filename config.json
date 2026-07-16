@@ -12,7 +12,7 @@
   "PASSWORD": "your password",
   "OTPKEY": "",
   "BOTNAME": "🫧🪼 Mommy 🎀 Robin 2 🩷🪽🐾",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "reactUnsend": ["😡", "🤧", "😤", "😠", "😘", "😭"],
 
   "ADMINBOT": [
